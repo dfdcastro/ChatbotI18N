@@ -6,6 +6,7 @@ Criar um arquivo base (Resource File) para o seu idioma padrão (nesse sample ut
 ![image](https://raw.githubusercontent.com/dfdcastro/ChatbotI18N/master/imgs/ResourceFile.PNG)
 
 Criar um arquivo para cada idioma da sua aplicação, respeitando a nomenclatura "Strings.culture.resx". Por exemplo: `Strings.es.resx` (Espanhol) | `Strings.fr.resx` (Francês) | `Strings.pt.resx` (Português)
+
 ![image](https://raw.githubusercontent.com/dfdcastro/ChatbotI18N/master/imgs/AllResourceFiles.PNG)
 
 Agora adicione as strings equivalentes para cada idioma, elas precisam ter o mesmo nome, altere apenas o valor para cada língua
